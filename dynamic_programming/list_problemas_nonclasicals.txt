@@ -1,0 +1,4 @@
+Fence: https://codeforces.com/problemset/problem/363/B
+Yet another broken keyboard: https://codeforces.com/problemset/problem/1272/C
+Cut ribbon: https://codeforces.com/problemset/problem/189/A
+Flowers: https://codeforces.com/problemset/problem/474/D
